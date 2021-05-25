@@ -1,0 +1,66 @@
+{
+    "PAGE_LOCKED": {
+        "TITLE": "Page locked",
+        "DESCRIPTION": "Wait wait, someone else is currently editing this page!",
+        "DESCRIPTION_USER": "Wait wait, <strong>{user}</strong> is currently editing this page!",
+        "BUTTONS": {
+            "REQUEST_ACCESS": "Request access",
+            "CANCEL": "Cancel"
+        }
+    },
+    "PAGE_LOCKED_QUEUE": {
+        "TITLE": "Page locked",
+        "DESCRIPTION": "There are several users waiting to edit this page, please try again later.",
+        "DESCRIPTION_USER": "There are several users waiting to access this page, currently edited by <strong>{user}</strong>. Please try again later.",
+        "BUTTONS": {
+            "CLOSE": "Close"
+        }
+    },
+    "ACCESS_REQUEST_RECEIVED": {
+        "TITLE": "New access request",
+        "DESCRIPTION": "Another user asked to access this page. If you accept, your session will be closed immediately.",
+        "DESCRIPTION_USER": "<strong>{user}</strong> asked to access this page. If you accept, your session will be closed immediately.",
+        "BUTTONS": {
+            "ACCEPT": "Accept",
+            "DECLINE": "Decline"
+        }
+    },
+    "ACCESS_GRANTED": {
+        "TITLE": "Access granted",
+        "DESCRIPTION": "You've been granted the access to the current page, have fun!",
+        "BUTTONS": {
+            "CLOSE": "Close"
+        }
+    },
+    "ACCESS_REJECTED": {
+        "TITLE": "Access rejected",
+        "DESCRIPTION": "Unfortunately your request to access this page has been rejected, sorry.",
+        "BUTTONS": {
+            "CLOSE": "Close"
+        }
+    },
+    "ACCESS_FORCED": {
+        "TITLE": "Session closed",
+        "DESCRIPTION": "Someone else forced the access to this page, therefore your session has been closed.",
+        "DESCRIPTION_USER": "<strong>{user}</strong> forced the access to this page, therefore your session has been closed.",
+        "BUTTONS": {
+            "CLOSE": "Close"
+        }
+    },
+    "ACCESS_FORCED_CONFIRM": {
+        "TITLE": "Access granted",
+        "DESCRIPTION": "Now you're the owner of this page, have fun!",
+        "BUTTONS": {
+            "CLOSE": "Close"
+        }
+    },
+    "ACCESS_REQUEST_SENT": {
+        "TITLE": "Request sent",
+        "DESCRIPTION": "We've sent your access request to the user. You can force the access anytime.",
+        "DESCRIPTION_USER": "We've sent your access request to <strong>{user}</strong>. You can force the access anytime.",
+        "BUTTONS": {
+            "FORCE": "Force access",
+            "CANCEL": "Cancel"
+        }
+    }
+}
