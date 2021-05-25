@@ -1,0 +1,66 @@
+{
+    "PAGE_LOCKED": {
+        "TITLE": "Pagina bloccata",
+        "DESCRIPTION": "Aspetta aspetta, qualcun altro sta già modificando questa pagina!",
+        "DESCRIPTION_USER": "Aspetta aspetta, <strong>{user}</strong> sta già modificando questa pagina!",
+        "BUTTONS": {
+            "REQUEST_ACCESS": "Richiedi accesso",
+            "CANCEL": "Annulla"
+        }
+    },
+    "PAGE_LOCKED_QUEUE": {
+        "TITLE": "Pagina bloccata",
+        "DESCRIPTION": "Ci sono più utenti in attesa di poter modificare questa pagina, riprova tra poco.",
+        "DESCRIPTION_USER": "Ci sono più utenti in attesa di poter modificare questa pagina, attualmente modificata da <strong>{user}</strong>. Riprova tra poco.",
+        "BUTTONS": {
+            "CLOSE": "Chiudi"
+        }
+    },
+    "ACCESS_REQUEST_RECEIVED": {
+        "TITLE": "Nuova richiesta d'accesso",
+        "DESCRIPTION": "Un altro utente ha richiesto l'accesso a questa pagina. Se accetti, la tua sessione terminerà immediatamente.",
+        "DESCRIPTION_USER": "<strong>{user}</strong> ha richiesto l'accesso a questa pagina. Se accetti, la tua sessione terminerà immediatamente.",
+        "BUTTONS": {
+            "ACCEPT": "Accetta",
+            "DECLINE": "Rifiuta"
+        }
+    },
+    "ACCESS_GRANTED": {
+        "TITLE": "Accesso consentito",
+        "DESCRIPTION": "Ti è stato dato l'accesso a questa pagina, buon divertimento!",
+        "BUTTONS": {
+            "CLOSE": "Chiudi"
+        }
+    },
+    "ACCESS_REJECTED": {
+        "TITLE": "Accesso rifiutato",
+        "DESCRIPTION": "Sfortunatamente la tua richiesta d'accesso a questa pagina è stata rifiutata.",
+        "BUTTONS": {
+            "CLOSE": "Chiudi"
+        }
+    },
+    "ACCESS_FORCED": {
+        "TITLE": "Sessione terminata",
+        "DESCRIPTION": "Qualcun altro ha forzato l'accesso a questa pagina, pertanto la tua sessione è stata chiusa.",
+        "DESCRIPTION_USER": "<strong>{user}</strong> ha forzato l'accesso a questa pagina, pertanto la tua sessione è stata chiusa.",
+        "BUTTONS": {
+            "CLOSE": "Chiudi"
+        }
+    },
+    "ACCESS_FORCED_CONFIRM": {
+        "TITLE": "Accesso consentito",
+        "DESCRIPTION": "Sei diventato il proprietario di questa pagina, buon divertimento!",
+        "BUTTONS": {
+            "CLOSE": "Chiudi"
+        }
+    },
+    "ACCESS_REQUEST_SENT": {
+        "TITLE": "Richiesta inviata",
+        "DESCRIPTION": "Abbiamo inviato la tua richiesta d'accesso. Puoi forzare l'accesso in ogni momento.",
+        "DESCRIPTION_USER": "Abbiamo inviato la tua richiesta d'accesso a <strong>{user}</strong>. Puoi forzare l'accesso in ogni momento.",
+        "BUTTONS": {
+            "FORCE": "Forza accesso",
+            "CANCEL": "Annulla"
+        }
+    }
+}
